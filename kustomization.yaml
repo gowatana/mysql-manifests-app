@@ -2,4 +2,4 @@ resources:
 - mysql-secret.yaml
 - mysql.yaml
 
-namespace: mysql-pj-01
+namespace: mysql-pj-02
